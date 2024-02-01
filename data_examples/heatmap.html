@@ -1,0 +1,16 @@
+<table border=1>
+	<tr>
+		{% for name in column_names %}
+			<th> {{ name }} </th>
+		{% endfor %}
+	</tr>
+	{% for gene in genes %}
+		<tr width="20px">
+			<th>{{ gene['name'] }}</th>
+			{% for value in gene['values'] %}
+				<td bgcolor={{value['color']}} width="20px"> <span title={{value['title']}}> <font color="black">  {{value['value']}} </font> </span></td> 
+				<!-- one field contains the absolute value and has an corresponding background color -->
+			{% endfor %}
+		</tr>
+	{% endfor %}
+</table>
