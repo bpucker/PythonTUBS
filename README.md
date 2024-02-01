@@ -1,10 +1,9 @@
 # Python for Life Scientists
-This course is a Python introduction for life scientists.
+This course is a Python introduction for all life scientists. Many examples have a focus on genomics and sequence analysis. Please feel free to re-use the material based on terms of a CC-BY license.
 
-Please find additional data sets for exercises here:
-https://cloud.tu-braunschweig.de/s/HXrzS4pFrLxdAMb
+Please find additional data sets for exercises in the data_examples subfolder.
 
-Please find additional scripts here:
+Please find additional scripts here (original Python course developed by Boas Pucker at CeBiTec / Bielefeld University):
 https://github.com/bpucker/APPLS
 
 
