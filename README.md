@@ -1,6 +1,6 @@
 # Python for Life Scientists
 
-Interested in taking this course? Students at TU Braunschweig are encouraged to contact [Boas Pucker](https://www.tu-braunschweig.de/en/ifp/pbb/contact).
+Interested in taking this course? Students at TU Braunschweig are encouraged to contact [Boas Pucker](https://www.izmb.uni-bonn.de/en/molecular-plant-sciences/contact).
 
 This course is a Python introduction for all life scientists. Many examples have a focus on genomics and sequence analysis. Please feel free to re-use the material based on terms of a CC-BY license.
 
